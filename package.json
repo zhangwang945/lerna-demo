@@ -18,5 +18,8 @@
       "internal": ":house: Internal",
       "breaking": ":boom: Breaking Change"
     }
+  },
+  "devDependencies": {
+    "lerna-changelog": "^1.0.1"
   }
 }

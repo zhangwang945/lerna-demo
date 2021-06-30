@@ -1,0 +1,22 @@
+{
+  "name": "lerna-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "changelog": {
+    "labels": {
+      "feat": ":rocket: New Feature",
+      "bug": ":bug: Bug Fix",
+      "doc": ":memo: Documentation",
+      "internal": ":house: Internal",
+      "breaking": ":boom: Breaking Change"
+    }
+  }
+}

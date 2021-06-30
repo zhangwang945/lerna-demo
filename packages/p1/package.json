@@ -1,6 +1,7 @@
 {
-  "name": "p1",
+  "name": "zhangwangp1",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "736188efd2f8f9d0c0fea2051f472ff34e194b29"
 }

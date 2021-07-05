@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/zhangwang945/lerna-demo.git"
   },
+  "scripts": {
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+  },
   "dependencies": {
     "lerna": "^4.0.0"
   },
@@ -24,8 +27,7 @@
     }
   },
   "devDependencies": {
-    "cz-conventional-changelog": "^3.3.0",
-    "lerna-changelog": "^1.0.1"
+    "cz-conventional-changelog": "^3.3.0"
   },
   "config": {
     "commitizen": {

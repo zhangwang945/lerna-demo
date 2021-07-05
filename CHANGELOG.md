@@ -1,4 +1,8 @@
-# [1.0.0](https://github.com/zhangwang945/lerna-demo/compare/v0.0.5...v1.0.0) (2021-07-05)
+# [1.0.0](https://github.com/zhangwang945/lerna-demo/compare/v0.0.7...v1.0.0) (2021-07-05)
+
+
+
+## [0.0.7](https://github.com/zhangwang945/lerna-demo/compare/v0.0.5...v0.0.7) (2021-07-05)
 
 
 ### Features
